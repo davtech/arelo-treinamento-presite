@@ -1,0 +1,74 @@
+
+#countdown 
+{
+width: 650px; 
+height:48px;
+text-align: center; 
+margin:auto;
+margin-bottom:60px;
+}
+
+
+.numbers
+{
+	font-size: 82px;
+	font-family: Arial, sans-serif;
+	font-weight: bold;
+	text-align: center;
+	color:#e5eaec;
+}
+
+
+#days {
+	background:url(../images/background-days.png) no-repeat;
+	background-repeat: no-repeat;
+	float:left;
+	width:191px;
+	height:98px;
+	padding: 0px 0px 0px 3px;
+	margin: 1px 0px 0px 3px;
+	letter-spacing: 7px;
+}
+#hours
+{
+	background:url(../images/background-counter.png) no-repeat;
+	width:121px;
+	height:98px;
+	float:left;
+	padding: 0px 0px 0px 3px;
+	margin: 1px;
+	letter-spacing: 7px;
+}
+#minutes
+{
+	background:url(../images/background-counter.png) no-repeat;
+	width:121px;
+	height:98px;
+	float:left;
+	padding: 0px 0px 0px 3px;
+	margin: 1px;
+	letter-spacing: 7px;
+}
+#seconds 
+{
+	background:url(../images/background-counter.png) no-repeat;
+	width:121px;
+	height:98px;
+	background-repeat: no-repeat;
+	float:left;
+	padding: 0px 0px 0px 3px;
+	margin: 1px;
+	letter-spacing: 7px;
+}
+
+.spacer
+{
+	width:20px;
+	height:98px;
+	background:url(../images/spacer.png) no-repeat;
+	float:left;
+	display:block;
+	margin-right:5px;
+}
+
+

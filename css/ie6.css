@@ -1,0 +1,13 @@
+@charset "utf-8";
+/* CSS Document */
+
+#days {
+	background:url(../images/background-days.png) no-repeat;
+	background-repeat: no-repeat;
+	float:left;
+	width:191px;
+	height:68px;
+	padding: 0px 0px 0px 3px;
+	margin: 1px 0px 0px 0px;
+	letter-spacing: 7px;
+}
