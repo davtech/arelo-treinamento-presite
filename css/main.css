@@ -5,7 +5,7 @@ body
 {
 margin:0;
 padding:0;
-background:#111213;
+background:#fff;
 }
 
 #logo
@@ -17,7 +17,7 @@ padding-top:60px;
 
 #wrapper
 {
-background:url(../images/background.png) no-repeat;
+	background-color: #fff;
 margin:auto;
 width:960px;
 }
