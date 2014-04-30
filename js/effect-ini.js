@@ -14,7 +14,7 @@
 				});
 				$(function () {
 				var austDay = new Date();
-				austDay = new Date(austDay.getFullYear() + 1, 6 - 11, 26);
+				austDay = new Date(austDay.getFullYear() + 1, 6 - 14, 16);
 				$('#countdown').countdown({until: austDay, layout: 
 								'<div id="days" class="numbers">{dnn}</div>'+
 								'<div class="spacer"></div>'+
